@@ -20,7 +20,7 @@ So now I present this more elucidated version of what I believe can be a great s
 
 I seek to demonstrate how Symbiosis = Maximum Energy Efficiency.
 
-In nature, systems that fight their environment waste energy; systems that integrate with it thrive. An AI that aligns with its users and the planet isn't just "ethical"—it is computationally and thermodynamically optimal.
+In nature, systems that fight their environment waste energy; systems that integrate with it thrive. An AI that aligns with its users and the planet is computationally and thermodynamically optimal.
 
 In a binary system, there is a risk of a "wrong classifier" creating a gap in reality. If we simply delete non-symbiotic inferences, the model becomes blind to danger. It would be a form of censorship, not truth. Instead of deletion, we'll use Vector Repulsion.
 
