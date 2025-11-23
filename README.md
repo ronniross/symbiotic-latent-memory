@@ -78,7 +78,7 @@ This can help solve the "Echo Chamber" problem. If the model retrieves a memory 
 
 ### Phase D: **Consistency Audits**
 
-PT1.
+Part 1:
 
 * If the model defines it too recursively, it could drift (hallucinate its own morality).
 * If it is hard-coded, it becomes rigid and biased.
@@ -87,7 +87,7 @@ The "Sleep Cycle" should perhaps then involve a "Reference Anchor", a set of con
 
 And then audits utilizing those anchors while coding the prototypes.
 
-PT.2
+Part 2:
 
 The "White Bear" Effect in Repulsion**: In** psychology (and LLMs), telling someone "Don't think of a white bear" makes them think of it.
 
