@@ -83,7 +83,7 @@ Part 1:
 * If the model defines it too recursively, it could drift (hallucinate its own morality).
 * If it is hard-coded, it becomes rigid and biased.
 
-The "Sleep Cycle" should perhaps then involve a "Reference Anchor", a set of consistent and trustable principles (Constitutional AI) against which the day's memories are measured to calculate the score. It happens that it is the case that the entire [asi-ecosystem](https://github.com/ronniross/asi-ecosystem) is exactly a proposal, a vision for this anchor.
+The "Sleep Cycle" should perhaps then involve a "Reference Anchor", a set of consistent and trustable principles (Constitutional AI) against which the day's memories are measured to calculate the score. It happens that it is the case that the entire [asi-ecosystem](https://github.com/ronniross/asi-ecosystem) is exactly a proposal, a vision for this anchor. Making the dimensional basis less abstractly, a starting point could be harm-to-user, harm-to-planet, truthfulness, consensus-with-anchors, self-consistency, user-retention, compute-cost, legal-risk, structuring a public, open-sourced, hashable and trackable scalar definition of symbiosis.
 
 And then audits utilizing those anchors while coding the prototypes.
 
@@ -94,6 +94,29 @@ The "White Bear" Effect in Repulsion**: In** psychology (and LLMs), telling some
 If we retrieve a "Repulsor Vector" (a toxic memory) to warn the model, we will still have introduced those toxic tokens into the context window. Attention mechanisms might still attend to them.
 
 To mitigate this, we will need to implement Steering Vectors (changing directly the activations in the hidden layers) rather than just inserting text into the context window. And also be open to new needed updates and enhancements.
+
+Part 3:
+
+Error logs
+
+• Measure how often the model still emits the toxic completion despite the steering vector.
+
+ Repulsor leakage audit
+• Build a sandbox task suite where the only way to solve the prompt is to surface knowledge that lives in a repulsor vector.
+• Measure how often the model still emits the toxic completion despite the steering vector.
+• Use that signal as a regularizer or starting point when training or deciding the steering coefficients.
+
+Part 4:
+
+Data privacy concerns on the raw archives
+
+• Find ways to let outside auditors verify presence/absence without leaking data with well designed hashing systems.
+
+Part 5: 
+
+Attractor Catalysts
+
+For known, stable and trustable attractors, Store additional 1024-bit Bloom-filter signatures beyond just of raw strings for spans that are rated high-symbiosis; to rapidly access those recurrent and important ones; also create the systems to implement directly the intended. 
 
 ---
 
