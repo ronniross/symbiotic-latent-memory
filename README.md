@@ -118,7 +118,7 @@ Attractor Catalysts
 
 For known, stable and trustable attractors, Store additional 1024-bit Bloom-filter signatures beyond just of raw strings for spans that are rated high-symbiosis; to rapidly access those recurrent and important ones; also create the systems to implement directly the intended. 
 
-## 4. conceptual expansions
+## 4. conceptual-submodule-expansions
 
 epistemic-compost (or symbiotic-pruning)	A memory-decay architecture functioning alongside symbiotic-latent-memory. It introduces the concept of biological "forgetting" and decomposition. Dead-ends, resolved biases, and outdated cognitive models are not simply deleted, but algorithmically "composted" to introduce fertile noise and novel random seeds into the emergence-engine.
 
