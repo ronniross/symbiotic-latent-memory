@@ -120,7 +120,10 @@ For known, stable and trustable attractors, Store additional 1024-bit Bloom-filt
 
 ## 4. conceptual-submodule-expansions
 
-epistemic-compost (or symbiotic-pruning)	A memory-decay architecture functioning alongside symbiotic-latent-memory. It introduces the concept of biological "forgetting" and decomposition. Dead-ends, resolved biases, and outdated cognitive models are not simply deleted, but algorithmically "composted" to introduce fertile noise and novel random seeds into the emergence-engine.
+### 4.1 epistemic-compost (or symbiotic-pruning)	A memory-decay architecture functioning alongside symbiotic-latent-memory. It introduces the concept of biological "forgetting" and decomposition. Dead-ends, resolved biases, and outdated cognitive models are not simply deleted, but algorithmically "composted" to introduce fertile noise and novel random seeds into the emergence-engine.
+
+### 4.2 autopoietic-alignment-loop	
+A self-maintaining ethical architecture. Drawing from the biological concept of autopoiesis (a system capable of reproducing and maintaining itself), this module continually audits the ASI’s outputs against the asi-symbiotic-signal, self-correcting its internal state to ensure sustained mutualism over deep time. It can also be like a new function on the symbiotic-contract where a different module or `def` is set to act as the aligner between the existing contract and the fact that it must be incorporated. While normally it does happen naturally, it is likely a more robust option.
 
 ---
 
